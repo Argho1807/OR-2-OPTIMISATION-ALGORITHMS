@@ -5,3 +5,5 @@ Q3_1 - Minimise maximum population-weighted time among all cities - use heuristi
 Q3_2 - Minimise maximum population-weighted time among all cities - use linear programming
 
 PDF attached has the questions
+
+added to github -  https://github.com/Argho1807/OR-2-OPTIMISATION-ALGORITHMS.git
